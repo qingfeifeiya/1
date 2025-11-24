@@ -1,0 +1,5 @@
+{
+  "name": "Forge React Replica",
+  "description": "A high-fidelity React implementation of the SPT Forge modding platform interface, featuring a dark tactical UI, mod filtering, and responsive design.",
+  "requestFramePermissions": []
+}
